@@ -5,4 +5,5 @@ rencana kuliah wawa
 -sering bertanya kepada dosen
 *bertanya kuliah apa tidak
 -sering belajar dari luar kuliah
--belajar terus menerus
+-Belajar css dan html 5
+
