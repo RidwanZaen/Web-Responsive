@@ -5,6 +5,4 @@ rencana kuliah wawa
 -sering bertanya kepada dosen
 *bertanya kuliah apa tidak
 -sering belajar dari luar kuliah
--belajar terus menerus
--belajar java script dan backend
--belajar tentang front end
+-Belajar css dan html 5
