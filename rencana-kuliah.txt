@@ -6,3 +6,4 @@ rencana kuliah wawa
 *bertanya kuliah apa tidak
 -sering belajar dari luar kuliah
 -belajar terus menerus
+-belajar java script dan backend
