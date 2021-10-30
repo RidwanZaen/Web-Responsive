@@ -7,3 +7,4 @@ rencana kuliah wawa
 -sering belajar dari luar kuliah
 -belajar terus menerus
 -belajar java script dan backend
+-belajar tentang front end
